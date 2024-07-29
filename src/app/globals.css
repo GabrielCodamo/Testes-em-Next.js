@@ -1,0 +1,28 @@
+
+.teste{
+    display: flex;
+    justify-content: center;
+}
+.steste{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.steste div{
+    display: flex;
+}
+
+
+.linha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 25px;
+    margin: 10px 5px;
+}
